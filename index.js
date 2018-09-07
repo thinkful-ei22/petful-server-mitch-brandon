@@ -124,6 +124,8 @@ app.use(
   })
 );
 
+app.use(express.json());
+
 app.get('/api/cats', (req, res, next) => {
   return res.status(200).json(cats);
 });
@@ -142,6 +144,32 @@ app.get('/api/dogs/:index', (req,res,next) => {
 
   return res.status(200).json(dogs[index]);
 });
+
+app.post('/api/cats', (req, res, next) => {
+
+
+  const {imageURL, imageDescription, name, sex, age, breed, story} = req.body;
+
+  const newCat = {imageURL, imageDescription, name, sex, age, breed, story};
+
+  cats.push(newCat);
+
+  return res.status(201).json(cats[cats.length-1]);
+});
+
+app.post('/api/dogs', (req, res, next) => {
+
+
+  const {imageURL, imageDescription, name, sex, age, breed, story} = req.body;
+
+  const newDog = {imageURL, imageDescription, name, sex, age, breed, story};
+
+  dogs.push(newDog);
+
+  return res.status(201).json(dogs[dogs.length-1]);
+});
+
+
 
 app.delete('/api/cats', (req, res, next) => {
 
