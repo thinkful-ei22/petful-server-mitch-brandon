@@ -1,0 +1,48 @@
+[
+  {
+    "imageURL": "http://www.dogster.com/wp-content/uploads/2015/05/Cute%20dog%20listening%20to%20music%201_1.jpg",
+    "imageDescription": "A smiling golden-brown golden retreiver listening to music.",
+    "name": "Zeus",
+    "sex": "Male",
+    "age": 3,
+    "breed": "Golden Retriever",
+    "story": "Owner Passed away"
+  },
+  {
+    "imageURL": "https://cdn3-www.dogtime.com/assets/uploads/gallery/beagle-dog-breed-pictures/6-fullbod3q.jpg",
+    "imageDescription": "A happy beagle standing on the beach.",
+    "name": "Marcy",
+    "sex": "Female",
+    "age": 5,
+    "breed": "Beagle",
+    "story": "Ran away"
+  },
+  {
+    "imageURL": "https://cdn0.wideopenpets.com/wp-content/uploads/2017/03/AdobeStock_104376070.jpg",
+    "imageDescription": "A young border collie holding a rubber ball.",
+    "name": "Dutch",
+    "sex": "Male",
+    "age": 1,
+    "breed": "Border Collie",
+    "story": "Donated by owner"
+  },
+  {
+    "imageURL": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/06014400/bulldog-on-skateboard-grinning.jpg",
+    "imageDescription": "A bulldog on a skateboard.",
+    "name": "Hulk",
+    "sex": "Male",
+    "age": 7,
+    "breed": "Bulldog",
+    "story": "Owner passed away"
+  },
+  {
+    "imageURL": "https://www.petguide.com/wp-content/uploads/2013/02/parson-russell-terrier1.jpg",
+    "imageDescription": "A russell terrier in the grass",
+    "name": "Bella",
+    "sex": "Female",
+    "age": 2,
+    "breed": "Russell Terrier",
+    "story": "Ran away"
+  }
+
+]
