@@ -1,6 +1,5 @@
 [
   {
-    "id": "001",
     "imageURL":"https://assets3.thrillist.com/v1/image/2622128/size/tmg-slideshow_l.jpg", 
     "imageDescription": "Orange bengal cat with black stripes lounging on concrete.",
     "name": "Fluffy",
@@ -11,7 +10,6 @@
   },
 
   {
-    "id": "002",
     "imageURL":"https://cdn2-www.cattime.com/assets/uploads/gallery/chartreux-cats-and-kittens/chartreux-cats-and-kittens-pictures-4.jpg", 
     "imageDescription": "Ash-colored chartreux cat laying on a rug",
     "name": "Whiskers",
@@ -22,7 +20,6 @@
   },
 
   {
-    "id": "003",
     "imageURL":"https://assets3.thrillist.com/v1/image/2622128/size/tmg-slideshow_l.jpg", 
     "imageDescription": "Orange bengal cat with black stripes lounging on concrete.",
     "name": "Queenie",
